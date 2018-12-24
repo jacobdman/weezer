@@ -2,7 +2,6 @@ import googlemaps # https://googlemaps.github.io/google-maps-services-python/doc
 from datetime import datetime
 # import re
 import sys
-sys.path.insert(0, 'C:\Dropbox (RC)\Apps')
 import time
 import json
 import gspread
