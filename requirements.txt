@@ -1,0 +1,40 @@
+apiclient
+pip install --upgrade google-api-python-client
+oauth2client
+googlemaps
+gspread
+schedule
+convert
+timezonefinder
+
+
+
+for timezone:
+https://askgeo.com/account via cedarlakeventures.com!
+Email: [???]
+Password: [???]
+Account id	[???]
+API key	[???]
+
+currently paying 29$ for 2 mill credits per month
+
+
+
+CurrentOffsetMs
+
+googlemaps geocoding api:
+[INSERT YOUR KEY HERE]
+
+
+
+I don't know karate or kung fu
+But i'm gonna make it in this world
+Won't be pumping diesel
+For mean people
+I'm a fight back with words
+Listen to reason
+Or we'll get cast out of egypt, la-dee-da
+I'm just trying to live
+And get my kicks
+And you gotta be human first
+
