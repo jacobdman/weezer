@@ -9,7 +9,7 @@ import datetime
 share calendar with rivers@drivetimes-1532004541374.iam.gserviceaccount.com
 """
 
-app_creds_dictionary = {"installed":{"client_id":"730992210318-cu4dk6d3lll6rupq6mjrmpk36jfu06i4.apps.googleusercontent.com","project_id":"drivetimes-1532004541374","auth_uri":"https://accounts.google.com/o/oauth2/auth","token_uri":"https://accounts.google.com/o/oauth2/token","auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs","client_secret":"pdNkw4DpaPOITAWyvraKdc7v","redirect_uris":["urn:ietf:wg:oauth:2.0:oob","http://localhost"]}}
+app_creds_dictionary = {"installed":{"client_id":","project_id":"drivetimes-1532004541374","auth_uri":"https://accounts.google.com/o/oauth2/auth","token_uri":"https://accounts.google.com/o/oauth2/token","auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs","client_secret":"","redirect_uris":["urn:ietf:wg:oauth:2.0:oob","http://localhost"]}}
 
 # Setup the Calendar API
 SCOPES = 'https://www.googleapis.com/auth/calendar'
