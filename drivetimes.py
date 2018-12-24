@@ -23,7 +23,6 @@ from datetime import datetime
 from pprint import pprint#delete
 import sys
 import os
-sys.path.insert(0, 'C:\Dropbox (RC)\Apps')
 from convert import *
 
 
